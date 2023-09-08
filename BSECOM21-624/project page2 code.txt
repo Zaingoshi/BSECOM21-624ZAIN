@@ -1,0 +1,80 @@
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="stylesheet" href="style.css">
+	
+							<!--Using Metatag-->
+	<meta name="viewport" content="width-device-width,
+	initial-scale=1.0">
+   <title>
+	WORLD OF GAMES
+   </title>
+
+</head>
+<br>
+
+
+<br>
+<body>
+<br>
+<a href="homepage.html"><br>
+	HOME PAGE</a>
+				<!--Using CSS class selector-->
+
+<form class="myHeader"
+<form action="iict project.html"required=True>
+	
+	Search Game:
+	<input type="text"required="true">
+	<br>
+	User name or email:
+	<input type="text">
+	<br>
+	Password:
+	<input type="password">
+	<br>
+	Checkbox:
+	<input type="checkbox">
+	
+	<br>
+	<button type="button" class="btn btn-primary">Click below button to submit</button>
+	<br>
+	<input type="submit">
+</form>
+
+<br>
+
+<br>
+
+<table id="para1" align="center">
+	<tr>
+		<th >GAMES</th>
+		<th >Sizes</th>
+	</tr>
+	<tr>
+		<td>Asphalt 8</td>
+		<td>1.5Gb</td>
+	</tr>
+	<tr>
+		<td>Combat</td>
+		<td>2.5Gb</td>
+	</tr>
+	<tr>
+		<td>Candy crush</td>
+		<td>50Mb</td>
+	</tr>
+	<tr>
+		<td>Super Mario</td>
+		<td>500Mb</td>
+	</tr>
+   </table>
+
+
+
+
+
+
+</body>
+</html>

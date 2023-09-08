@@ -1,0 +1,42 @@
+
+			
+p:hover {
+  color: red;
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+  text-font: 30px;
+} 
+
+
+
+h1 {
+  text-align: center;
+  color: blue;
+  background-color:lightblue;
+  text-font: 50px;
+} 
+			
+
+.myHeader {
+  background-color: grey;
+  color: black;
+  padding: 10px;
+  align:center;
+  text-align: center;
+  font-size:30px;
+}
+
+
+#para1 {
+  background-color: yellow;
+  color: black;
+  border: 10px outset blue;
+  padding: 10px;
+  font-size: 40px;
+  width: 40%;
+}
+
+
+
+
